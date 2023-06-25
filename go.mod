@@ -1,4 +1,4 @@
-module github.com/mdlayher/arp
+module github.com/rgwohlbold/arp
 
 go 1.12
 
